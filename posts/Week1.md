@@ -36,13 +36,13 @@ _ Same the layout but different colors.
 
 List of concepts: 
 
-_ "rect()" to draw rectangles 
+_ **"rect()"** to draw rectangles 
 
-_ "fill()" to apply colors for each blocks
+_ **"fill()"** to apply colors for each blocks
 
-_ "random()" to set random colors 
+_ **"random()"** to set random colors 
 
-_ "array" to store the color of each block 
+_ **"array"** to store the color of each block 
 
 List of references:
 
