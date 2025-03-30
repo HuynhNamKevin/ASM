@@ -1,6 +1,6 @@
 ---
 title: Week 3
-published_at: 2025-03-30
+published_at: 2025-03-22
 snippet: 3rd post.
 disable_html_sanitization: true
 allow_math: true
