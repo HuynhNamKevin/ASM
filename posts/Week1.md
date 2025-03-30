@@ -1,3 +1,11 @@
+---
+title: Week 1 
+published_at: 2025-03-30
+snippet: 1st post.
+disable_html_sanitization: true
+allow_math: true
+---
+
 # Week 1a
 **Lectuere**
  For the first class, I can not join at the first day becasue I was clashed with the other class. But when I allocated successfully, I checked on the Canvas so I can got clearly what studied on the first day of this class related to creating blog for write what we learned and homework task. Beside that, I got p5js as the main code language in this semester '[text](https://editor.p5js.org/)' and watch the Youtube playlist from "The Coding Train" '[text](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)'. In addition, got how p5 work and how to write blog and push on github, which I didn't get clearly how it work.
@@ -20,3 +28,6 @@ List of references:
 _ '[text](https://p5js.org/reference/p5/fill/)'
 _ '[text](https://p5js.org/reference/p5/for/)'
 _ '[text](https://p5js.org/reference/p5/random/)'
+
+# Week 1b
+
