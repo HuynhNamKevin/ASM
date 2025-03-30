@@ -7,8 +7,77 @@ allow_math: true
 ---
 
 # Week 2a: Cute as Aesthetic Register
+
 **Lectuere**
+
+ **Definition of an aesthetic register:** is a way we categorize styles or feelings in visual culture.
+
+ **Some other aesthetic registers:**
+  > Gothic is dark and moody 
+
+  > Minimalist is clean and simple 
+
+  > And cute is playful, soft, and emotionally engaging   
+
+ **What characterises the cute?:** often involves: softness, bright color, or sweetness
+
+ **The relation between cute & power:** The cute can disarm us or make us want to protect it -- that's a kind of emotional influence.
+
+ **The relation between cute & coomodification:** Cute things are easy to sell. They're turned into products, icons, and merchandise.
+
+ **The relation between cute & platform capitalism:** Apps and social media often use cute design to keep users engaged (and scrolling).
+
+ **The relation between cute & artificial intelligence:** Some AI assistants and robots are made to look or sound cute so we trust them more
+
 **Homework**
+
+**Cute visuals:**
+
+For the visual side, I want to use: 
+
+    > Bright colors 
+
+    > Round, bouncy shapes
+
+For the cute sounds, like: 
+
+    > Boop! when you click 
+
+    > Pop! when somethings appears or disappears
+
+    > Tada! when you complete an action 
+
+For the cute interactions
+
+    > Waving when you hover 
+
+    > Jumping when click 
+
+**AT1 Project: Mood Garden**
+
+**Concept:**
+In Mood Garden, users can interact with a calming music garden. Each interaction add cuteness and mood:
+
+ > Click: plant flower
+
+ > Drag: draw trail after the flower
+
+ > Keys: Change the background between 3 moods
+
+Cuteness: 
+ > Visuals: Warm color palette, flowers
+
+ > Sounds: Calm background music, sound of ground and grass
+
+ > Interactions: Smooth
+
+My p5 Sketch: 
+<iframe src="https://editor.p5js.org/huynhnamkevin123/full/vx4DMFsxE"></iframe>
+
+With these elements, I hope to create cute offering for my kinderd spirits which can be easily interacted.
+
 # Week 2b: Kindred Spirits 
+
 **Lectuere**
+
 **Homework**
