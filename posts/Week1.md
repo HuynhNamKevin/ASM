@@ -30,4 +30,5 @@ _ '[text](https://p5js.org/reference/p5/for/)'
 _ '[text](https://p5js.org/reference/p5/random/)'
 
 # Week 1b
-
+_ Learn what is Creative Coding 
+_ Some p5js useful concepts 
