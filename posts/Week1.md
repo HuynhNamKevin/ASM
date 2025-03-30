@@ -23,6 +23,7 @@ allow_math: true
 
 For this homework, I saw it just a horizontally loop, so I created a vertically loop to make a grid, that means we need one loop for columns and one loop for rows.
 2. for the work by Rafael Rozendaal, I chose the work "Blocks" '[text](https://www.newrafael.com/blocks/)'
+
 Describe: 
 
 _ The screen is filled with colorful rectangular blocks.
