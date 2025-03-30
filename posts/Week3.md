@@ -73,6 +73,27 @@ allow_math: true
 
  . each instance has itw own set of attributes which can be reffered to with the **this** keyword
 
+**Homework**
+
+1. `[Box by Rafael Rozendaal](https://www.newrafael.com/box/)`
+
+> Visually: 
+
+    In Box, Rozendaal uses bold, blocky shapes and vibrant, saturated colors like bright pink,red,green. While the colors are striking, the simple of the visual design - just a moving looking box - contributes to the cuteness.
+
+> Sonically:
+
+    Box is a silent piece and doesn't include any audio. This maybe invite the viewer to imagegine the sound.
+
+> Interactively: 
+
+    The animation is click the mouse and it will appear random color, minimal but delightfuly responsive
+
+
+# Week 3b: Redundancy, Style & Refactorisation
+
+**Lectuere**
+
 **Code style**
 
 **Components of Clarity**
@@ -137,8 +158,62 @@ allow_math: true
 
 **Homework**
 
-# Week 3b: Redundancy, Style & Refactorisation
+1.Describe AT1 using the following concepts:
 
-**Lectuere**
+    > Variables: I use many variables to manage the state of the sketch:
 
-**Homework**
+        . track the background mood theme
+
+        . Some arrays used to store and control multiple objects 
+
+        . Color palettes for cute mood visuals
+
+    > Functions: are used to separate logic into clean, resuable parts:
+
+        . Draws flowers with petal colors and fading 
+
+        . Choose background music based on mood 
+
+        . Displays effects like rain, star, clouds, or sun based on mood 
+
+        . Fading objects and background 
+
+    > Iteration: "for" loops used to:
+
+        . Create many raindrops, stars and clouds at the statr 
+
+        . Display and fade flowers, trails, and leaves
+
+        . Draw petals of flower and sun rays 
+
+    > Boolean Logic: help to control animation behaviour smoothly and efficiently 
+
+    > Arrays: store and manage collections of elements 
+
+    > Classes: multiple custom classes for Flower, Trail, Raindrop, FallingLeaf, Star and Cloud to summary object behaviour
+
+2.Rough draft of my AT1
+
+    > How well did you achieve cuteness in the visual, sonic, and interactive domains? 
+
+        . The pastel color, with rounded shapes, and animation of objects all contribute to a soft and playful atmosphere
+
+        . Background ambient sound and a short sound when you press the mosue make a gentle soundscape
+
+        . Clicking to plant flower, dragging to draw trail, and press key create simple action witout pressure
+
+    > What communities and learning resources did I use? 
+
+        . Learned from p5,js reference site, The Coding Train on Youtube, and look at some interactive example
+
+    > What did I enjoy the most? What suprised me? 
+
+        . I enjoy the different moods - espeacillay the starry night with the sound of owl 
+
+        . The animation of falling leaf suprised me a lot, because it looks smooth and cute 
+
+    > What did I struggle with or find confusing?
+
+        . The *class* concepts takes me a lot of time to understand and adapt it to my AT1, at the first time I adapt it, it had many errors. 
+
+        . Beside that, mistake at font type also make me struggle when I double chekced on my code
