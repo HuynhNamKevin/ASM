@@ -8,7 +8,7 @@ allow_math: true
 
 # Week 2a: Cute as Aesthetic Register
 
-**Lectuere**
+**Lecture**
 
  **Definition of an aesthetic register:** is a way we categorize styles or feelings in visual culture.
 

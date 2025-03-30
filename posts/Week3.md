@@ -8,7 +8,7 @@ allow_math: true
 
 # Week 3a: Images, Sound & Interaction
 
-**Lectuere** 
+**Lecture** 
 
 **Functions & Classes**
 
@@ -28,7 +28,7 @@ allow_math: true
 
 . functions have inputs and outputs:
     > **arguments** = inputs
-    
+
     > **return** = outputs 
 
 **Homework**
