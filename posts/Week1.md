@@ -22,7 +22,7 @@ allow_math: true
 </script>
 
 For this homework, I saw it just a horizontally loop, so I created a vertically loop to make a grid, that means we need one loop for columns and one loop for rows.
-2. for the work by Rafael Rozendaal, I chose the work "Blocks" '[text](https://www.newrafael.com/blocks/)'
+2. for the work by Rafael Rozendaal, I chose the work "Blocks" '[Blocks by Rafael Rozendaal](https://www.newrafael.com/blocks/)'
 
 Describe: 
 
