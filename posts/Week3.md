@@ -15,13 +15,20 @@ allow_math: true
 **Functions**
 
 . are like recipes 
+
 . **defining** a function = writing a recipe 
+
 . **calling** a function = making the cake 
-. side effects are when functions change things outside their scope
+
+. side effects are when functions change things outside their scope:
+
     > quick and easy 
+
     > can get very messy 
-. functions have inputs and outputs
+
+. functions have inputs and outputs:
     > **arguments** = inputs
+    
     > **return** = outputs 
 
 **Homework**
