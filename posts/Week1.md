@@ -194,7 +194,7 @@ _ Some p5js useful concepts
 
 > **random(9,11)** returns a random value between 9-11
 
-> **noise()** is more complicated, but also more useful
+> **noise()** is more complicated, but also more useful:
 
     fills a three dimensional space up with continuous values 
 
