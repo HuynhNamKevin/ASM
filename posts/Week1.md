@@ -17,7 +17,7 @@ allow_math: true
 
     const iframe  = document.getElementById (`grid homework`)
     iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16 + 42
+    iframe.height = iframe.width * 9 / 16 
 
 </script>
 
