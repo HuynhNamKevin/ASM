@@ -39,11 +39,12 @@ _ "random()" to set random colors
 _ "array" to store the color of each block 
 
 List of references:
-_ '[text](https://p5js.org/reference/p5/fill/)'
 
-_ '[text](https://p5js.org/reference/p5/for/)'
+_ '[fill](https://p5js.org/reference/p5/fill/)'
 
-_ '[text](https://p5js.org/reference/p5/random/)'
+_ '[for](https://p5js.org/reference/p5/for/)'
+
+_ '[random](https://p5js.org/reference/p5/random/)'
 
 # Week 1b: What is Creative Coding?
 
