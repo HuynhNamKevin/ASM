@@ -6,4 +6,9 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Week 2 
+# Week 2a: Cute as Aesthetic Register
+**Lectuere**
+**Homework**
+# Week 2b: Kindred Spirits 
+**Lectuere**
+**Homework**
