@@ -58,4 +58,146 @@ _ '[random](https://p5js.org/reference/p5/random/)'
 
 _ Learn what is Creative Coding 
 
+**Creative Coding** is the practice of writing code not primarily to build software or apps, but as a form of self- expression, art, or exploration. Tha goal isn't efficiecny or functionally, but rather creativity, experimentation, and often beauty or emotion
+
+**Creative Coding is used in**
+
+Digital art
+
+Interactive installations
+
+Generative visuals
+
+Sound art or music 
+
+Performances 
+
+Experimental design 
+
 _ Some p5js useful concepts 
+
+**Comments**
+
+> are for human readers of your code 
+
+> comments are ignored by the computer 
+
+> single line comments start with: // 
+
+> multi line comments are bookended with: /* and */
+
+> use comments explain what you are doing with each line of your code 
+
+**Print & Log**
+
+> this **print()** function prints information to the console 
+
+> this can help us understand how things are working!
+
+> very useful for troubleshooting bugs 
+
+> **print()** is p5.js specific 
+
+> **console.log** is built into "vanilla" javascript, and does exactly the same thing 
+
+**framceCount & noLoop**
+
+> **frameCount** is a convenience variable provided by p5.js
+
+> the value of **frameCount** is equal to the number of times **draw()** has been called (plus one!)
+
+> ... which is (almost) always equal to the frame number we are up to 
+
+> so long as **draw()** is iterating, **frameCount** will continue to increase
+
+> we can stop **draw()** fro iterating by calling **noLoop()**
+
+> we can resume iterating **draw()** with **loop()**
+
+**Template Literals**
+
+> a **string** is a string of characters, like a word or a sentence 
+
+> in javascript, you can write a string using **'single quotes'**, or **"double quotes"**, or **backticks**.
+
+> using backsticks will let you convert the value of a variable into the middle of a string, using **${ ...}**
+
+>**console.log (`frame: ${ frameCount }!`)** logs:
+
+    frame: 1 on the first frame 
+
+    frame: 2 on the second frame, etc
+
+**Variables**
+
+> variables need to be declared 
+
+> pay attention to the scope you declare your variable in 
+
+> var is the legacy way to declare variables 
+
+> const and let is the modern way to declare variables 
+
+> variables declared with:
+
+    let can be reassigned
+
+    const cannot be reassisgned
+
+> can be used:
+
+    to break complicated processes down into many simple steps 
+
+    to visually organise long or messy code 
+
+    to help troubleshoot bugs 
+
+**Colour**
+
+> **color()**, **fill()**, and **background()**
+
+> default ways of dealing with colour
+
+> HSB: Hue, Saturation, Brightness
+
+> **lerpColor()**: lerps between two colours 
+
+**Iteration**
+
+> iteration is where a process is repeated many times while something changes 
+
+> **frameCount** is an example of iteration 
+
+> **while (...) {...}** loop
+
+> **for (...) {...}** loop 
+
+> you can iterate across an array with **.forEach (...) {...}**
+
+**Arrays**
+
+> are lists of things 
+
+> looke like this: [ `thing_0`, `things_1`, `things_2`]
+
+> can be assigned to a variable 
+
+> we can retrieve elements from an array 
+
+> note that the index of the firt element is 0 
+
+**Random & Noise**
+
+> **random()** returns a random between 0-1
+
+> **random(6)** returns a random value between 0-6
+
+> **random(9,11)** returns a random value between 9-11
+
+> **noise()** is more complicated, but also more useful
+
+    fills a three dimensional space up with continuous values 
+
+    moving through the noise space gives random, but continuous values 
+
+    circling back to the same position brings you back to your initial value 
