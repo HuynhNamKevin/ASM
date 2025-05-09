@@ -33,4 +33,18 @@ allow_math: true
 *Key feature:* Lets you create, move, transform, and animate SVG elements easily. 
 
 *Different from others:* It's specialized for SVG graphics, unlike q5.js (which builds on p5) or c2.js(which is more logic-based).
+
+**Part 2**
+
+Some libraries like **svg.js** are avaialble as ES modules. Others like **q5.js** and **c2.js** may not be directly usable without bring bundled or adapted. That's where tools like **esm.sh** come in.
+
+**esm.sh:**
+
+It converts NPM packages to native ES module URLs you can import directly in the browser.
+
+Useful when the library is not published as an ES module or you're working in a Deno environment or strict ES module setup
+
+**Part 3**
+
+
 # Week 6b: Shaders, Moire, & the Demoscene
