@@ -46,5 +46,18 @@ Useful when the library is not published as an ES module or you're working in a 
 
 **Part 3**
 
+let x;
 
+function setup() {
+    createCanvas(400,200);
+    x = new q5.Signal(0);
+    x.ease(300,1000);
+}
+
+function draw() {
+    background (220);
+    ellipse(x.value(), 100, 50, 50);
+}
+
+This demo uses **q5.js** to animate a signal from one value to another. It's a way to model 
 # Week 6b: Shaders, Moire, & the Demoscene
