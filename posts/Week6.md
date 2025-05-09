@@ -45,23 +45,42 @@ It converts NPM packages to native ES module URLs you can import directly in the
 Useful when the library is not published as an ES module or you're working in a Deno environment or strict ES module setup
 
 **Part 3**
-'''javescript
+
 let x;
 
 function setup() {
+
     createCanvas(400,200);
+
     x = new q5.Signal(0);
+
     x.ease(300,1000);
+
 }
 
 function draw() {
+
     background (220);
+
     ellipse(x.value(), 100, 50, 50);
+
 }
 
 This demo uses **q5.js** to animate a signal from one value to another. It's a way to model 
 
 **Part 4**
+
+**1. Information & Thinking - Michel Serres:**
+
+Talks about how information isn't just data - it changes how we think and interact with the world. He emphasizes the importance of signals and noise in communication and thought.
+
+**2. What is it like to be a fungus? - Merlin Sheldrake**
+
+A deep dive into the world of fungi, exploring how their behavior, communcation, and interactions blur boundaries between organisms, showing intelligence and connectivity in a non-human way.
+
+**3. Xenofeminism: A Politics for Alienation - Laboria Cuboniks**
+
+A feminist techno - political manifesto that argues for using technology and science to build a more inclusive and equal future - by embracing difference and rejecting biological determinism. 
 
 
 # Week 6b: Shaders, Moire, & the Demoscene
