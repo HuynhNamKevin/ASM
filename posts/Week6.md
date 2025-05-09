@@ -84,3 +84,27 @@ A feminist techno - political manifesto that argues for using technology and sci
 
 
 # Week 6b: Shaders, Moire, & the Demoscene
+
+**AT2: What is it like to be a fungus?**
+
+*1. Fungi form networks that grow, split, fuse, and adapt*__ Represented through the dynamically connecting spores and recursive branching. 
+
+*2. They change the world not by force, but through decomposition*__ Embodied in decay mode, where particles fade and shrink slowly.
+
+*3. Their way of thinking is distributed, decentralized*__ Reflected by autonomous, self-moving spores and signals without a single control point. 
+
+**Techniques Used:**
+
+**Signals/ Envelopes:** Time - based pulsing via sine waves in the **draw()** loop simulate fungal communcation and drag interaction with spores mimics adaptive behavior in response to environmental touch.
+
+**Recursion:** adds organic fractal growth reminiscent of fungal branching.
+
+**Project Concept:** 
+
+> connect dynamically through visual pulse (like mycelium)
+
+> grow and fade (via trails and decay)
+
+> emit mist-like particles (cloud)
+
+> adapt to user 
