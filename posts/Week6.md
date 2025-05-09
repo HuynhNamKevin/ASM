@@ -45,7 +45,7 @@ It converts NPM packages to native ES module URLs you can import directly in the
 Useful when the library is not published as an ES module or you're working in a Deno environment or strict ES module setup
 
 **Part 3**
-
+'''javescript
 let x;
 
 function setup() {
@@ -60,4 +60,8 @@ function draw() {
 }
 
 This demo uses **q5.js** to animate a signal from one value to another. It's a way to model 
+
+**Part 4**
+
+
 # Week 6b: Shaders, Moire, & the Demoscene
