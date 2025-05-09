@@ -1,7 +1,7 @@
 ---
 title: Week 5 
 published_at: 2025-03-08
-snippet: 1st post.
+snippet: 5th post.
 disable_html_sanitization: true
 allow_math: true
 ---
