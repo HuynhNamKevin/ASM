@@ -21,3 +21,27 @@ According to Cramer, post - digital art doesn't reject digital tools - it operat
 
 > Rely on glitch aesthetics, data feedback, or custom interfaces - but not to show off technology. The digital is just one medium in a larger ecosystem.
 
+**Technology Used:**
+
+> Sensors
+
+> Arduino, Raspberry Pi
+
+> Video projection, real-time input/output systems
+
+> Custom code 
+
+**She could use:**
+
+> **p5.js** - for real - time generative visuals 
+
+> **Tone.js** - for ambient/reactive sound
+
+> **ml5.js** - for real - time classification 
+
+> **Web serial API** - to read sensors via Arduino 
+
+> **Three.js** - for spatial/matrix-like 3D compositions
+
+> **Rita.js** - for generating poetic or glitched language overlays
+
