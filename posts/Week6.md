@@ -1,6 +1,6 @@
 ---
 title: Week 6 
-published_at: 2025-03-08
+published_at: 2025-04-12
 snippet: 6th post.
 disable_html_sanitization: true
 allow_math: true
